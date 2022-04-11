@@ -13,5 +13,5 @@ To start the container:
 To begin interacting with the container:
 
 ```bash
-./scriptes/attach-container.sh
+./scripts/attach-container.sh
 ```
